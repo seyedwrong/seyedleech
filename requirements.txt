@@ -1,3 +1,5 @@
-heroku buildpacks:set heroku/ruby
-heroku buildpacks:set heroku/php
-heroku buildpacks:set heroku/python
+django
+gunicorn
+django-heroku
+ruby-heroku
+
